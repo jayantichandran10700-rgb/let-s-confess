@@ -1,19 +1,6 @@
 <p align="center">
   <img src="./img.png" alt="Project Banner" width="100%">
-</p>
-
-# [Project Name] 🎯
-
-## Basic Details
-
-### Team Name: [Name]
-
-### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-
-### Hosted Project Link
-[mention your project hosted link here]
+]
 
 ### Project Description
 [2-3 lines about what your project does]
